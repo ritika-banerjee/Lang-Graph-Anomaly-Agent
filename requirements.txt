@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+tqdm
+seaborn
+ipykernel
+langgraph
+joblib
+uvicorn
+fastapi
+streamlit
+dotenv
